@@ -1,0 +1,13 @@
+D:\windmill\windmill\bin\Debug\netcoreapp3.1\windmill.exe
+D:\windmill\windmill\bin\Debug\netcoreapp3.1\windmill.deps.json
+D:\windmill\windmill\bin\Debug\netcoreapp3.1\windmill.runtimeconfig.json
+D:\windmill\windmill\bin\Debug\netcoreapp3.1\windmill.runtimeconfig.dev.json
+D:\windmill\windmill\bin\Debug\netcoreapp3.1\windmill.dll
+D:\windmill\windmill\bin\Debug\netcoreapp3.1\windmill.pdb
+D:\windmill\windmill\obj\Debug\netcoreapp3.1\windmill.csprojAssemblyReference.cache
+D:\windmill\windmill\obj\Debug\netcoreapp3.1\windmill.AssemblyInfoInputs.cache
+D:\windmill\windmill\obj\Debug\netcoreapp3.1\windmill.AssemblyInfo.cs
+D:\windmill\windmill\obj\Debug\netcoreapp3.1\windmill.csproj.CoreCompileInputs.cache
+D:\windmill\windmill\obj\Debug\netcoreapp3.1\windmill.dll
+D:\windmill\windmill\obj\Debug\netcoreapp3.1\windmill.pdb
+D:\windmill\windmill\obj\Debug\netcoreapp3.1\windmill.genruntimeconfig.cache
